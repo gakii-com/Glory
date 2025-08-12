@@ -65,10 +65,4 @@ Product: 50.0
 Quotient: 3.125
 ```
 
-## 📜 License
 
-This project is released into the public domain. Go wild and make it your own! 🎨
-
----
-
-If you want, I can also make a **condensed, professional-style README** alongside this playful one so you have both options. That way it works for both GitHub fun projects and formal portfolio use.
